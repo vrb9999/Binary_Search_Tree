@@ -1,0 +1,14 @@
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\bin\Debug\netcoreapp3.1\BST_UsingSize.exe
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\bin\Debug\netcoreapp3.1\BST_UsingSize.deps.json
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\bin\Debug\netcoreapp3.1\BST_UsingSize.runtimeconfig.json
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\bin\Debug\netcoreapp3.1\BST_UsingSize.runtimeconfig.dev.json
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\bin\Debug\netcoreapp3.1\BST_UsingSize.dll
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\bin\Debug\netcoreapp3.1\BST_UsingSize.pdb
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.csproj.AssemblyReference.cache
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.AssemblyInfoInputs.cache
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.AssemblyInfo.cs
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.csproj.CoreCompileInputs.cache
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.dll
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.pdb
+D:\RFP\Binary_Search_Tree\BST_UsingSize\BST_UsingSize\obj\Debug\netcoreapp3.1\BST_UsingSize.genruntimeconfig.cache
